@@ -1,0 +1,95 @@
+body p {
+	color: #333;
+	font-family: 'Oswald', sans-serif;
+	font-weight: lighter;
+	font-size: 16px;
+}
+
+body h2 {
+	color: #4b7e9c;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #969696;
+}
+
+body h3 {
+	color: #969696;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	border-bottom: 1px solid #969696;
+}
+
+body h4 {
+	color: #aaa;
+	font-family: 'Oswald', sans-serif;
+	font-weight: lighter;
+	font-size: 18px;
+	line-height: 10px;
+}
+
+.personal-info .container {
+	background-image: url('http://i.imgur.com/2s48QJf.jpg');
+	border-bottom: 2px solid #969696;
+	height: 320px;
+	width: 750px;
+	padding-left: 24px;
+	padding-right: 24px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#pic {
+	float: right;
+	height: 320px;
+
+}
+
+.personal-info h1 {
+	color: #4b7e9c;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: 56px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #969696;
+}
+
+.personal-info p {
+	line-height: 6px;
+}
+
+.personal-info a {
+	color: #58c458;
+	font-family: 'Oswald', sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+}
+
+.summary .container {
+	width: 750px;
+	padding-left: 24px;
+	padding-right: 24px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.work-experience .container {
+	background-color: #ddd;
+	border-top: 2px solid #969696;
+	border-bottom: 2px solid #969696;
+	width: 750px;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-bottom: 48px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.work-experience .container li {
+	color: #333;
+	font-family: 'Oswald', sans-serif;
+	font-weight: lighter;
+	font-size: 16px;
+}
